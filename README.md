@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -22,3 +23,7 @@ This chat example showcases how to use `socket.io` with a static `express` serve
 Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
 
 Eduardo Hitek
+=======
+# freecodecamp-git
+Repo for FreeCodeCamp Git Tasks
+>>>>>>> 53ffa488aac7b6a4d82ae00ae3d2f1e7719491cd
